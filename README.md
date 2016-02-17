@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.crypt v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.crypt.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.crypt)
+de.bsvrz.sys.funclib.crypt v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.crypt.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.crypt)
 ==================================
 
 
